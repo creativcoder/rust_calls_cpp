@@ -1,0 +1,5 @@
+[package]
+name = "rust_calls_cpp"
+version = "0.1.0"
+authors = ["Rahul Sharma <rsconceptx@gmail.com>"]
+build = "build.rs"
